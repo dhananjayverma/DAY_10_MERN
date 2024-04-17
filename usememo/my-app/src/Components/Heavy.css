@@ -1,0 +1,20 @@
+.HeavyComputationContainer {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .HeavyComputationContainer input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .HeavyComputationContainer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .HeavyComputationContainer li {
+    margin-bottom: 5px;
+  }
